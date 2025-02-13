@@ -140,6 +140,10 @@
                         {
                             "number": 9,
                             "link": "https://www.dropbox.com/scl/fi/xsd8qowpqp3vjefds0q7z/Beast-Games-S01E09-HDTV-1080p.mkv?rlkey=rpiajz4xl6231nr57m56zrh6o&st=xsn3fqg7&dl=0"
+                        },
+                        {
+                            "number": 10,
+                            "link": "https://www.dropbox.com/scl/fi/6cji6um417m0aw7qpfpai/Beast-Games-S01E10-WEBDL-720p.mkv?rlkey=q9up2et5ozoleunvfsgspz8s5&st=5cxdebry&dl=0"
                         }
                     ]
                 }
@@ -2823,9 +2827,10 @@
     "changelog": [
         {
             "version": "1.0.4",
-            "date": "02-12-2025",
+            "date": "02-13-2025",
             "changes": [
-                "Added Family Guy (1999)"
+                "Added Family Guy (1999)",
+                "Added Beast Games S01E10"
             ]
         },
         {
