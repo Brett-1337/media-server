@@ -143,7 +143,7 @@
                         },
                         {
                             "number": 10,
-                            "link": "https://www.dropbox.com/scl/fi/6cji6um417m0aw7qpfpai/Beast-Games-S01E10-WEBDL-720p.mkv?rlkey=q9up2et5ozoleunvfsgspz8s5&st=5cxdebry&dl=0"
+                            "link": "https://www.dropbox.com/scl/fi/d4k3zc9irh2mmo58p6kem/Beast-Games-S01E10-WEBDL-720p.mp4?rlkey=az63oaxl8qxzqc0ps4zhc36c5&st=yr99ga03&dl=0"
                         }
                     ]
                 }
